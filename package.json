@@ -9,6 +9,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "protractor": "^0.20.1"
+    "protractor": "2.5.1"
   }
 }
